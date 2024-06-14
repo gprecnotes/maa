@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+	<title> Resume </title>
+	<body> 
+		<center> <u> <b style="font-size:28px"> RESUME </b> <u> </center>	
+		<p>
+		 </u> <b> XXX </b> </u><br>
+		 H. No : XXXXX<br>
+		 Contact Number : XXX <br>
+		 Email: <a href="www.google.com">XXX</a><br>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Career Objective </i> </h2> </u>
+		<ul>
+		<li> I want to work with an organization that can give me ample oppourtines to grow so that I will be able to help in growth of that organization and will be able to enhance my skills and capabilities.</li>
+		</ul>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Personal Skills </i> </h2> </u>
+		<ul>
+		<li> Good verbal and communication skills, ability to work in a team, good logical thinking, positive thinking</li>
+		<li> Convince others with communications skills and self motivation </li>
+		</ul>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Academic Qualifications </i> </h2> </u>
+		<center>
+		<table>
+			<th> Course </th>
+			<th> University Board </th>
+			<th> Year of Passing </th>
+			<th> School/College </th>
+			<th> CGPA </th>
+			<tr>
+				<td> B. Tech </td>
+				<td> JNTUA </td>
+				<td> 2025* </td>
+				<td> GPREC </td>
+				<td> 9.00 </td>
+			</tr>	
+			<tr>
+		`		<td> Intermediate </td>
+				<td> APBIE </td>
+				<td> 2021 </td>
+				<td> Narayana Junior college </td>
+				<td> 9.1 </td>
+			</tr>
+			<tr>
+				<td> 10th </td>
+				<td> SSC </td>
+				<td> 2019 </td>
+				<td> Chaitanya High School </td>
+				<td> 9.2 </td>
+			</tr>
+		</table>
+		</center>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Technical Skills </i> </h2> </u>
+		<ul>
+			<li> C,Java,Python </li>
+			<li> MS OFFICE </li>
+		</ul>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Projects </i> </h2> </u>
+		<b style="font-size:18px"> Techinal </b>
+		<ul>
+			<li> Internship on Web Development </li>
+			<li> Internship on Pyhton Programming </li>
+		</ul>
+		<b style="font-size:18px"> Non Techinal </b>
+		<ul>
+			<li> A Community service project on Local Parks </li>
+		</ul>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Personal Details </i> </h2> </u>
+		<b> Father's name: </b> &emsp;&emsp;XX<br>
+		<b> Mothers's name: </b> &emsp; XXX<br>
+		<b> Date of Brith: </b> &emsp;&emsp; XX<br>
+		<b> Sex: </b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Male<br>
+		<b> Marital Status: </b>&emsp;&ensp; Unmarried<br>
+		<b> Languages Known: </b>English, Telugu<br>
+		<u> <h2 style="font-size:20px;background-color:grey"> <i> Declaration </i> </h2> </u>
+		I hereby declare that the details furnished above are correct to the best of my knowledge and belief.<br><br>
+		Date  : 12/10/2023<br>
+		Place : Kurnool
+		<p style="text-align:right">XXX </p>		
+		</p> 	
+	</body>
+<style>
+table,td,th
+{
+border:solid;
+border-collapse:collapse;
+padding:5px 5px
+}
+
+</style>
+</html>

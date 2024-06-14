@@ -1,0 +1,152 @@
+
+HOME
+
+<!DOCTYPE html>
+<html>
+    <title>
+        GPREC
+    </title>
+   <center>
+    <img src="D:\5\3\1.png">
+    <h2 style="color:blue"> GPREC Home Page</h2>
+  </center>
+    <center>
+    <p style="background-color:lightskyblue;word-spacing: 100px;">
+      <a href="#">Home</a>
+      <a href="D:\5\3\Signin.html" target="_blank">SignIn</a>
+       <a href="D:\5\3\Register.html" target="_blank">Register</a>
+      </center>
+     </p>
+     <center>
+     <img src="D:\5\3\2.png" style="width: 1020px;height:450px">
+    </center>
+</html>
+
+
+REGISTER
+
+<!DOCTYPE html>
+<html>
+  <title> gprec registration </title>
+<style>
+button {  
+        width: 30%;
+        color: #B961D0;
+        padding: 10px;
+        margin: 10px;  
+        cursor: pointer;
+         }
+ input[type=text], input[type=password] {
+        width: 60%;
+        margin: 8px;
+        padding: 5px;
+        display: inline-block;
+    }
+  .cancelbtn {
+        padding: 10px;
+        margin: 10px;
+    }
+.container {
+        max-width:400px;
+        padding: 25px;
+        background-color:lightgrey;
+    }
+</style>
+  <div style="text-align:center;">
+  <img src="https://www.gprec.ac.in/wp-content/uploads/2019/05/gprec_logo1.png" alt="GPREC Logo" width="170" height="100">
+  <h1 style="color:blue;">Welcome to GPREC<br>Student Registration</h1>
+  <p>Please fill this form to create an account</p>
+    </div>
+<body>
+<form >
+  <center>
+        <div class="container" style="text-align:left;">
+            <label class="id">Firstname : </label>&emsp;
+            <input type="text" placeholder="X" name="username" required><br>
+            <label class="id">Middlename : </label>
+            <input type="text" placeholder="XX" name="username" required><br>
+            <label class="id">Lastname : </label>&emsp;
+            <input type="text" placeholder="" name="username" required><br>
+             <label class="id">Date of Birth : </label>
+            <input type="text" placeholder="XXX" name="username" required><br>
+            <label>Course : </label>
+             <select>  
+                <option value="Course">Course</option>  
+                <option value="BCA">BCA</option>  
+                <option value="BBA">BBA</option>  
+                <option value="B.Tech">B.Tech</option>  
+                <option value="M.Tech">M.Tech</option>  
+            </select>  <br>  <br>
+          <label> Gender : </label><br>  
+             <input type="radio" name="male"/> Male <br>  
+             <input type="radio" name="female"/> Female <br>  
+             <input type="radio" name="other"/> Other  <br>  
+        <label> Phone : </label>  
+             <input type="text" placeholder="XX" name="phone"> <br>
+             Address
+             <input type="text"Placeholder="XXX"name="address"><br>
+             Email:  
+             <input type="text" placeholder="XXXX" name="email"/> <br>
+            Password:  
+             <input type="Password" placeholder="*****" name="pass"> <br>    
+            <button type="button" class="submit"> Register</button>
+            <div style="text-align:right"> <button type="button" class="cancelbtn"> Cancel</button> </div>
+            Already you have an account? <a href="file:///C:/Users/OneDrive/Documents/expt3-1.html#">Sign-in</a>
+        </div>   </center>
+</form>
+</body>  
+</html>
+
+
+SIGN IN
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+button {  
+        width: 30%;
+        color: #B961D0;
+        padding: 10px;
+        margin: 10px;  
+        cursor: pointer;
+         }
+  .id {
+     color:aqua;
+    }
+ input[type=text], input[type=password] {
+        width: 60%;
+        margin: 8px;
+        padding: 12px;
+        display: inline-block;
+    }
+  .cancelbtn {
+        padding: 10px;
+        margin: 10px;
+    }
+     
+   
+ .container {
+        max-width:400px;
+        padding: 25px;
+        background-color:#4CA49F;
+    }
+</style>
+</head>  
+<body>  
+    <center style="color:#D64169;"> <h1>Login Page </h1> </center>
+<form>
+  <center>
+        <div class="container" style="text-align:left">
+            <label class="id">Username : </label> <br>
+            <input type="text" placeholder="Enter Username" name="username" required><br>
+            <label class="id">Password : </label> <br>
+            <input type="password" placeholder="Enter Password" name="password" required><br>
+            <input type="checkbox"> Remember me <br><br>
+            <button type="button" class="cancelbtn"> Cancel</button>
+            <div style="text-align:right"><button type="submit">Login</button></div>
+            <div style="color:white;"><a href="#"> Forgot password? </a></div>
+        </div>   </center>
+</form>
+</body>  
+</html> 

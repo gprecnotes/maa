@@ -1,0 +1,62 @@
+STUDENT EDUCATION DETAILS
+
+<!DOCTYPE HTML>
+<html>
+	<title> Student Education Details </title>
+	<center>
+	<h1 style="color:brown;">  <u>G.Pulla Reddy Engineering College</u> </h1>
+	<h2 style="color:blue;">   <i> Student Education Details </i></h2>
+	<table>
+		<tr style="background-color:red;">
+			<th> First name </th>
+			<th> Last Name </th>
+			<th> Roll number </th>
+			<th> CGPA </th>
+			<th> Branch </th>
+		</tr>
+		<tr style="background-color:yellow;">
+			<td> A </td>
+			<td> BCD </td>
+			<td> 219x1a05</td>
+			<td> 8 </td>
+			<td> CSE </td>
+		</tr>
+		<tr style="background-color:yellow;">	
+			<td> A </td>
+			<td> DEF </td>
+			<td> 219x1a05 </td>
+			<td> 8 </td>
+			<td> CSE </td>
+		</tr>
+		<tr style="background-color:yellow">	
+			<td> A </td>
+			<td> ABC </td>
+			<td> 219x1a05</td>
+			<td> 8 </td>
+			<td> CSE </td>
+		</tr>
+		<tr style="background-color:yellow;">	
+			<td> B </td>
+			<td> ABC </td>
+			<td> 219x1a05 </td>
+			<td> 8 </td>
+			<td> CSE </td>
+		</tr>
+		<tr style="background-color:yellow;">	
+			<td> B  </td>
+			<td> ABC </td>
+			<td> 219x1a05</td>
+			<td> 8 </td>
+			<td> CSE </td>
+		</tr>
+	</table>
+	</center>
+<style>
+table,th,td
+{
+	border:solid;
+	border-collapse:collapse;
+	padding:10px 20px;
+}	
+</style>
+</html>

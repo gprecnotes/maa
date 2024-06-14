@@ -1,0 +1,210 @@
+
+ABOUT
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <h2 style="color:green;text-align: center;font-size: 25px;"> Who We Are.. </h2>
+    </head>
+    <body>
+        <center><img src="D:\5\4\1.png" width="1350px" height="150vh"></center>
+        <b>
+        <p style="color:blue;">
+            We hold ourselves and each other accountable for demonstrating the Leadership Principles through our actions every day.
+        </p>
+        <hr>
+        <p style="color:hotpink">
+            <i>Customer Obsession</i><br>Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+        </p>
+        <hr>
+    </body>
+</html>
+
+
+CONTACT
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Contact</title>
+ <style>
+ .text
+ {
+ padding-top: 15px;
+ padding-left: 25px;
+ }
+ .img{
+ float:left;
+ }
+ </style>
+ <div style="text-align: center;" >
+ <img
+src="https://i.pinimg.com/736x/cb/66/8c/cb668cd9b0bf1220046193aa966a19cc.jpg
+" alt="amzon logo" width="1350" height="200" >
+ <h1> <b> Hello, What can we help you with ?</b></h1>
+ </div>
+ <div class="img">
+ <img
+src="https://freepngimg.com/thumb/money/75358-mobile-money-telephone-call-ph
+ones-bank-gmail.png" alt="call symbol" width="100" height="80" >
+ </div>
+ <div class="text">
+ <a href="#"> Amazon Contact Service </a> <br>
+ <a href="#"> Amazon for help with your account and more </a> <br>
+ <br><br>
+ </div>
+ <p> <b>
+ Phone Number: 022 3042 1010
+ </b></p>
+ </head>
+</html>
+
+
+HOMEPAGE
+
+<!DOCTYPE html>
+<html>
+  <h2 style="color:skyblue;text-align: center;font-size: 30px;"> Welcome to Amazon!!!</h2>
+    <body>
+        <center>
+        <p style="background-color:gray;word-spacing:100px;font-size: 28px;"> 
+            <a href="D:\5\4\about.html" style="color:white;" target="_blank">AboutUs</a>    
+            <a href="D:\5\4\services.html" style="color:white;" target="_blank">Services</a>
+            <a href="D:\5\4\contact.html" style="color:white;" target="_blank">Contact</a>
+            <a href="D:\5\4\signup.html" style="color:white;" target="_blank">Signup</a>
+            <a href="D:\5\4\signin.html" style="color:white;" target="_blank">Signin</a>
+        </p>
+        <img src="D:\5\4\1.png" width="1340px" height="500px"></center>
+    </body>
+</html>
+
+
+SERVICES
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Services</title>
+ <h1 style="text-align: center;color:magenta;">Amazon Services</h1>
+ <hr>
+ <style>
+ ul {
+ list-style-type: none;
+ display: grid;
+ grid-template-columns: repeat(4, 1fr);
+ gap: 45px;
+ }
+ </style>
+ </head>
+ <body vlink="blue">
+ <ul>
+ <a href="#"><b>Amazon Music</b><br>Stream Millions<br>ofSongs</a>
+ <a href="#"><b>Amazon Advertising</b><br>Find,attract,and<br>engage
+customers</a>
+ <a href="#"><b>Amazon Drive</b><br>Cloud storage<br>from Amazon</a>
+ <a href="#"><b>6pm<br>Score deals<br>on fashion brands</b></a>
+ <a href="#"><b>AbeBooks</b><br>Books,art<br>& collectibles</a>
+ <a href="#"><b>ACX</b><br>Audiobook<br>publishing<br>Made Easy</a>
+ <a href="#"><b>Alexa</b><br>Actionable<br>Analytics<br>for
+the<br>Web</a>
+ </ul>
+ </body>
+</html>
+
+
+SIGN IN 
+
+<html>
+ <head>
+ <title>Amazon.Sign in</title>
+ <style>
+ div{
+ background-color:silver;
+ margin:auto;
+ border-radius:20px;
+ width:500;
+ height:500;
+ }
+ form{
+ padding-left:100px;
+ padding-top:40px;
+ }
+ hr{
+ height: 2px;
+ background-color: white;
+ width:300px;
+ margin-left:2px;
+ }
+ </style>
+ </head>
+ <body>
+ <center><img style="width:10%"
+src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png"></i
+mg></center>
+ <div>
+ <form>
+ <h1 style="padding-left:100px">Sign in</h1><br>
+ <b><label for="mail">Email/Phoneno :</label></b>
+ <input type="text" name="mail" required><br><br><br>
+ <b><label for="pw">Password :</label></b>
+ <input type="text" name="pw" required><br><br><br>
+ <button type="submit" style="margin-left:125px">Login</button><br><br>
+ <hr><br><br>
+ <a style="padding-left:100px"href="D:\0\4\signup.html">New to Amazon?</a><br><br>
+ <a href=""><button type="submit" style="margin-left:100px">Create Account</button></a><br><br>
+ </form>
+ </div>
+ </body>
+</html>
+
+
+SIGN UP
+
+<html>
+<head>
+<title>Amazon.Sign-up</title>
+<style>
+div{
+background-color:silver;
+margin:auto;
+border-radius:20px;
+width:500;
+height:500;
+}
+form{
+padding-left:100px;
+padding-top:70px;
+}
+hr{
+height: 2px;
+background-color: white;
+width:300px;
+margin-left:2px;
+}
+</style>
+</head>
+<body>
+<center><img style="width:10%"
+src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png"></i
+mg></center>
+<center><h2>Create Account...</h2></center>
+<div>
+<form>
+<b><label for="fname">Your name</label></b>
+<input type="text"  name="fname" required><br><br>
+<b><label for="num">Mobile number</label></b>
+<input type="button" value="+91">
+<input type="text" placeholder="mobile number" name="num" required><br><br>
+<b><label for="mail">Emain(optional)</label></b>
+<input type="text" name="mail" required><br><br>
+<b><label for="pw">Password :</label></b>
+<input type="text" placeholder="Atleat 6 characters" name="pw"
+required><br><br><br><br>
+<button type="submit" style="margin-left:100px">Continue</button><br><br>
+<hr>
+<br><b><label>Already have an account? :</label>
+<a href="D:\5\4\signin.html">Sign in</a></b>
+</form>
+</div>
+</body>
+</html>

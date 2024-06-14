@@ -1,0 +1,53 @@
+CSE
+
+<!DOCTYPE html>
+<html>
+    <center>
+    <h1 style="background-color: skyblue;color:black;font-size:24px">CSE Department</h1>
+    <img  src="D:\5\5\6.png" height="400px">
+    <h1 style="background-color: skyblue;color:black;font-size:24px">Subjects</h1>
+    <b>C Language<br><br>Java<br><br>Python<br><br>Data Structures & Algorithm<br><br>Database<br><br></b>
+    <h1 style="background-color: skyblue;color:black;font-size:24px">Tutorials</h1>
+     <b>C Langugae<br><br><iframe src="https://www.youtube.com/embed/rLf3jnHxSmU></iframe><br><br>
+     Java<br><br><iframe src="https://www.youtube.com/embed/VHbSopMyc4M?si=qB7wG1tTmEEFaT7M></iframe><br><br>
+     Python<br><iframe src="https://www.youtube.com/embed/4EaYeZyzIB0?si=7Vstqeq1v5nJ8v15" ></iframe><br>
+     Data Strucutres and Algorithms<br><iframe  src="https://www.youtube.com/embed/xLetJpcjHS0?si=6US-1Ddt9dCtoPn9"></iframe><br>
+     Database<br><iframe  src="https://www.youtube.com/embed/OMwgGL3lHlI?si></iframe><br></b>
+    </center>
+</html>
+
+
+DEPARTMENT
+
+<!DOCTYPE html>
+<html>
+    <div style="background-color: lightgrey;">
+        <h1 align="middle" style="background-color: black;color:white;font-size: 24px;">DEPARTMENTS</h2>
+        <center>
+            <a href="D:\5\5\CSE.html" target="_blank"><img src="D:\5\5\1.png" width="300px" height="300px"><br></a>
+            <h1>Computer Science and Engineering</h1><br>
+            <a href="D:\5\5\ECE.html"><img src="D:\5\5\2.png" width="300px" height="300px"><br></a>
+            <h1>Electronics and Communication Engineering</h1><br>
+            <a href="D:\5\5\EEE.html"><img src="D:\5\5\3.png" width="300px" height="300px"><br></a>
+            <h1>Electrical and Electronics Engineering</h1><br>
+            <a href="D:\5\5\CE.html"><img src="D:\5\5\4.png" width="300px" height="300px"><br></a>
+            <h1>Civil Engineering</h1><br>
+            <a href="D:\5\5\ME.html"><img src="D:\5\5\5.png" width="300px" height="300px"><br></a>
+            <h1>Mechanical Engineering</h1><br>
+        </center>
+    </div>
+</html>
+
+
+HOME
+
+<!DOCTYPE html>
+<html>
+    <div class="a" style="background-color: darkblue;width:1350;height:180px">
+        <h2 align="middle" style="color:orange;"> G PULLA REDDY ENGINEERING COLLEGE<br>(AUTONOMOUS)</h2>
+	    <img align="left" src="https://www.gprec.ac.in/wp-content/uploads/2019/05/gprec_logo1.png"><br>
+           <h4 align="right"><a href="#" style="color:orange">Home</a>&nbsp;
+            <a href="D:\5\5\Department.html" target="_blank" style="color:orange;text-align: end;">Department</a></h4>
+    </div>
+    <img src="https://static.zollege.in/public/college_data/images/appImage/16474136981489135693php7FNBkK.jpeg?tr=h-250,w-400,c-force" width="100%" height="450px">
+</html>

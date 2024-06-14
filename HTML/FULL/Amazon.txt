@@ -1,0 +1,326 @@
+4. AMAZON
+
+About
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <h2 style="color:green;text-align: center;font-size: 25px;"> Who We Are.. </h2>
+    </head>
+    <body>
+        <center><img src="D:\5\4\1.png" width="1350px" height="150vh"></center>
+        <b>
+        <p style="color:blue;">
+            We hold ourselves and each other accountable for demonstrating the Leadership Principles through our actions every day.Our Leadership Principles describe how Amazon does business, how leaders lead, and how we keep the customer at the center of our decisions.Our unique Amazon culture, described by our Leadership Principles, helps us relentlessly pursue our mission of being Earth's most customer-centric company, best employer, and safest place to work.
+        </p>
+        <hr>
+        <p style="color:hotpink">
+            <i>Customer Obsession</i><br>Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+        </p>
+        <hr>
+        <p style="color:orange">
+            <i>Ownership</i><br>Leaders are owners. They think long term and do not sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say "that's not my job."
+        </p>
+        <hr>
+        <p style="color:blue">
+            <i>Invent and Simplify</i><br>Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by "not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
+        </p>
+        <hr>
+        <p style="color:red">
+            <i>Are Right, A Lot</i><br>Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
+        </p>
+        <hr>
+        <p style="color:lightpink">
+            <i>Learn and Be Curious</i><br>Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
+        </p>
+        <hr>
+        <p style="color:green">
+            <i>Hire and Develop the Best</i><br>Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent and willingly move them throughout the organisation. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
+        </p>
+        <hr>
+        <p style="color:blue">
+            <i>Insist on the Highest Standards</i><br>Leaders have relentlessly high standards-many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high-quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
+        </p>
+        <hr>
+        <p style="color:red">
+            <i>Think Big</i><br>Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
+        </p>
+        <hr>
+        <p style="color:purple">
+            <i>Bias for Action</i><br>Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
+        </p>
+        <hr>
+        <p style="color:pink">
+            <i>Frugality</i><br>Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
+        </p>
+        <hr>        
+        <p style="color:orange">
+            <i>Earn Trust</i><br>Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team's body odor smells of perfume. They benchmark themselves and their teams against the best.
+        </p>
+        <hr>        
+        <p style="color:red">
+            <i>Dive Deep</i><br>Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.            Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
+        </p>
+        <hr> 
+        <p style="color:green">
+            <i>Have Backbone Disagree and Commit</i><br>Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
+        </p>
+        <hr> 
+        <p style="color:orange">
+            <i>Deliver Results</i><br>Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+        </p>
+        <hr> 
+        <p style="color:pink">
+            <i>Strive to be Earth's Best Employer</i><br>Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment. They lead with empathy. have fun at work, and make it easy for others to have fun. Leaders ask themselves: Are my fellow employees growing? Are they empowered? Are they ready for what's next? Leaders have a vision for and commitment to their employees' personal success, whether that be at Amazon or elsewhere.
+        </p>
+        <hr> 
+        <p style="color:purple">
+            <i>Success and Scale Bring Broad Responsibility</i><br>We started in a garage, but we're not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. We must begin each day with a determination to make better, do better, and be better for our customers, our employees, our partners, and the world at large. And we must end every day knowing we can do even more tomorrow. Leaders create more than they consume and always leave things better than how they found them.
+        </p>
+        <hr> 
+    </b>
+    </body>
+</html>
+
+
+
+CONTACT US
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Contact</title>
+ <style>
+ .text
+ {
+ padding-top: 15px;
+ padding-left: 25px;
+ }
+ .img{
+ float:left;
+ }
+ </style>
+ <div style="text-align: center;" >
+ <img
+src="https://i.pinimg.com/736x/cb/66/8c/cb668cd9b0bf1220046193aa966a19cc.jpg
+" alt="amzon logo" width="1350" height="200" >
+ <h1> <b> Hello, What can we help you with ?</b></h1>
+ </div>
+ <div class="img">
+ <img
+src="https://freepngimg.com/thumb/money/75358-mobile-money-telephone-call-ph
+ones-bank-gmail.png" alt="call symbol" width="100" height="80" >
+ </div>
+ <div class="text">
+
+ <a href="#"> Amazon Contact Service </a> <br>
+ <a href="#"> Amazon for help with your account and more </a> <br>
+ <br><br>
+
+ </div>
+ <p> <b>
+ Phone Number: 022 3042 1010
+ </b></p>
+
+ </head>
+</html>
+
+
+HOMEPAGE
+
+<!DOCTYPE html>
+<html>
+  <h2 style="color:skyblue;text-align: center;font-size: 30px;"> Welcome to Amazon!!!</h2>
+    <body>
+        <center>
+        <p style="background-color:gray;word-spacing:100px;font-size: 28px;"> 
+            <a href="D:\5\4\about.html" style="color:white;" target="_blank">AboutUs</a>    
+            <a href="D:\5\4\services.html" style="color:white;" target="_blank">Services</a>
+            <a href="D:\5\4\contact.html" style="color:white;" target="_blank">Contact</a>
+            <a href="D:\5\4\signup.html" style="color:white;" target="_blank">Signup</a>
+            <a href="D:\5\4\signin.html" style="color:white;" target="_blank">Signin</a>
+        </p>
+        <img src="D:\5\4\1.png" width="1340px" height="500px"></center>
+    </body>
+</html>
+
+
+SERVICES
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Services</title>
+ <h1 style="text-align: center;color:magenta;">Amazon Services</h1>
+ <hr>
+ <style>
+ ul {
+ list-style-type: none;
+ display: grid;
+ grid-template-columns: repeat(8, 1fr);
+ gap: 45px;
+ }
+ </style>
+ </head>
+ <body vlink="blue">
+ <ul>
+ <a href="#"><b>Amazon Music</b><br>Stream Millions<br>ofSongs</a>
+ <a href="#"><b>Amazon Advertising</b><br>Find,attract,and<br>engage
+customers</a>
+ <a href="#"><b>Amazon Drive</b><br>Cloud storage<br>from Amazon</a>
+ <a href="#"><b>6pm<br>Score deals<br>on fashion brands</b></a>
+ <a href="#"><b>AbeBooks</b><br>Books,art<br>& collectibles</a>
+ <a href="#"><b>ACX</b><br>Audiobook<br>publishing<br>Made Easy</a>
+ <a href="#"><b>Alexa</b><br>Actionable<br>Analytics<br>for
+the<br>Web</a>
+ <a href="#"><b>Sell on<br>Amazon</b><br>Start a
+<br>Selling<br>Account</a>
+ <a href="#"><b>Amazon Global</b><br>Ship Orders<br>Internationally</a>
+ <a href="#"><b>Amazon Business</b><br>Everything for<br>Your
+Business</a>
+ <a href="#"><b>Home Services</b><br>Experienced
+pros<br>Happiness<br>Guarantee</a>
+ <a href="#"><b>Amazon Ignite</b><br>Sell your original<br>Digital
+Educational<br>Resources</a>
+ <a href="#"><b>Amazon<br>Web
+Services</b><br>Scalable<br>Cloud<br>Computing<br>Services</a>
+ <a href="#"><b>Audible</b><br>Listen to<br>Books
+&<br>Original<br>Audio<br>Performances</a>
+ <a href="#"><b>Book<br>Depository</b><br>Books<br>With
+Free<br>Delivery<br>Worldwide</a>
+ <a href="#"><b>Box Office<br>Mojo</b><br>Find Movie<br>Box
+office<br>Data</a>
+ <a href="#"><b>ComiXology</b><br>Thousands of<br>Digital Comics</a>
+ <a href="#"><b>DP Review</b><br>Digital<br>Photography</a>
+ <a href="#"><b>Fabric</b><br>Sewing,Quilting<br>& Knitting</a>
+ <a href="#"><b>Goodreads</b><br>Book reviews<br>&
+recommendations<br></a>
+ <a href="#"><b>IMDb<br>Movies</b><br>Tv<br>& Celebrities</a>
+ <a href="#"><b>IMDb Pro</b><br>Get
+Info<br>Entertainment<br>Professionals<br>Need</a>
+ <a href="#"><b>Kindle<br>Direct<br>Publishing</b><br>Indie<br>Digital &
+Print<br>Publishing<br>Made Easy</a>
+ <a
+href="#"><b>Prime<br>Video<br>Direct</b><br>Video<br>Distribution<br>Made
+Easy</a>
+ <a href="#"><b>Shopbop</b><br>Designer<br>Fashion Brands</a>
+ <a href="#"><b>PillPack</b><br>Pharmacy<br>Simplified</a>
+ <a href="#"><b>Zappos</b><br>Shoes &<br>Clothing</a>
+ <a href="#"><b>Ring</b><br>Smart Home<br>Security systems</a>
+ <a href="#"><b>Eero<br>WiFi</b><br>Stream<br>4k Video<br>in
+Every<br>Room</a>
+ <a
+href="#"><b>Blink</b><br>Smart<br>Security<br>for<br>Every<br>Home</a>
+ <a href="#"><b>Neighbours<br>App</b><br>Real Time<br>Crime
+&<br>Safety Alerts</a>
+ <a
+href="#"><b>Amazon<br>Subscription<br>Boxes</b><br>Top<br>subscription<br>
+boxes-right<br>to your door</a>
+ </ul>
+ </body>
+</html>
+
+
+SIGN IN 
+
+<html>
+ <head>
+ <title>Amazon.Sign in</title>
+ <style>
+ div{
+ background-color:silver;
+ margin:auto;
+ border-radius:20px;
+ width:500;
+ height:500;
+ }
+ form{
+ padding-left:100px;
+ padding-top:40px;
+ }
+ hr{
+ height: 2px;
+ background-color: white;
+ width:300px;
+ margin-left:2px;
+ }
+ </style>
+ </head>
+ <body>
+ <center><img style="width:10%"
+src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png"></img></center>
+ <div>
+ <form>
+ <h1 style="padding-left:100px">Sign in</h1><br>
+ <b><label for="mail">Email/Phoneno :</label></b>
+ <input type="text" name="mail" required><br><br><br>
+ <b><label for="pw">Password :</label></b>
+ <input type="text" name="pw" required><br><br><br>
+ <button type="submit" style="margin-left:125px">Login</button><br><br>
+ <b><p style="padding-left:8px;">By continuing, you agree to
+Amazon's<br>Conditions of Use and Privacy Notice</p></b>
+ <hr><br><br>
+ <a style="padding-left:100px"
+href="D:\5\4\signup.html">New to
+Amazon?</a><br><br>
+ <a href=""><button type="submit" style="margin-left:100px">Create
+Account</button></a><br><br>
+ </form>
+ </div>
+ </body>
+</html>
+
+
+SIGN UP
+
+<html>
+<head>
+<title>Amazon.Sign-up</title>
+<style>
+div{
+background-color:silver;
+margin:auto;
+border-radius:20px;
+width:500;
+height:500;
+}
+form{
+padding-left:100px;
+padding-top:70px;
+}
+hr{
+height: 2px;
+background-color: white;
+width:300px;
+margin-left:2px;
+}
+</style>
+</head>
+<body>
+<center><img style="width:10%"
+src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png"></i
+mg></center>
+<center><h2>Create Account...</h2></center>
+<div>
+<form>
+<b><label for="fname">Your name</label></b>
+<input type="text" placeholder="First and last name" name="fname"
+required><br><br>
+<b><label for="num">Mobile number</label></b>
+<input type="button" value="+91">
+<input type="text" placeholder="mobile number" name="num" required><br><br>
+<b><label for="mail">Emain(optional)</label></b>
+<input type="text" name="mail" required><br><br>
+<b><label for="pw">Password :</label></b>
+<input type="text" placeholder="Atleat 6 characters" name="pw"
+required><br><br><br><br>
+<b><p>We will send you a text to verify your phone.<br>Message and Data rates may
+apply</p></b>
+<button type="submit" style="margin-left:100px">Continue</button><br><br>
+<hr>
+<br><b><label>Already have an account? :</label>
+<a href="D:\5\4\signin.html">Sign in</a></b>
+</form>
+</div>
+</body>
+</html>
